@@ -20,6 +20,7 @@ Here are some ideas to get you started:
  * react
  * redux
  * redux-saga
+ * next
  * express
  * mysql
  * sequalize
