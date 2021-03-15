@@ -15,3 +15,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# stack
+  react
+  redux
+  redux-saga
+  express
+  mysql
+  sequalize
+  vba(exel)
+  
