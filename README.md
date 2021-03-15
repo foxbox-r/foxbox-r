@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 -->
 
 # stack
-  react
-  redux
-  redux-saga
-  express
-  mysql
-  sequalize
-  vba(exel)
+ *react
+ *redux
+ *redux-saga
+ *express
+ *mysql
+ *sequalize
+ *vba(exel)
   
