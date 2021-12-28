@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+블로그
+https://blog.naver.com/foxboxr
+
 # stack
  * react
  * redux
